@@ -1,0 +1,19 @@
+# Node.js
+backend/node_modules/
+
+# Flutter/Dart
+frontend/.dart_tool/
+frontend/.idea/
+frontend/.packages
+frontend/build/
+frontend/ios/Flutter/Flutter.framework
+frontend/ios/Flutter/Flutter.podspec
+frontend/ios/Pods/
+frontend/ios/Runner.xcworkspace/
+frontend/ios/Runner.xcodeproj/project.xcworkspace/
+frontend/ios/Runner.xcodeproj/xcuserdata/
+frontend/ios/Flutter/App.framework
+frontend/ios/Flutter/engine/
+frontend/ios/Flutter/Generated.xcconfig
+frontend/ios/Flutter/ephemeral/
+frontend/pubspec.lock
